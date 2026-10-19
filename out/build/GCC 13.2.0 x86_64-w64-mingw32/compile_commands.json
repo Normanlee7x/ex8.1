@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/lxzlx/ex8.1/out/build/GCC 13.2.0 x86_64-w64-mingw32",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -g -o CMakeFiles\\ex8.1.dir\\main.cpp.obj -c C:\\Users\\lxzlx\\ex8.1\\main.cpp",
+  "file": "C:\\Users\\lxzlx\\ex8.1\\main.cpp",
+  "output": "CMakeFiles\\ex8.1.dir\\main.cpp.obj"
+}
+]

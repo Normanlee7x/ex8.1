@@ -1,0 +1,3 @@
+C:/Users/lxzlx/ex8.1/out/build/GCC 13.2.0 x86_64-w64-mingw32/CMakeFiles/ex8.1.dir
+C:/Users/lxzlx/ex8.1/out/build/GCC 13.2.0 x86_64-w64-mingw32/CMakeFiles/edit_cache.dir
+C:/Users/lxzlx/ex8.1/out/build/GCC 13.2.0 x86_64-w64-mingw32/CMakeFiles/rebuild_cache.dir
